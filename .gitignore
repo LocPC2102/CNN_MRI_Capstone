@@ -1,0 +1,16 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Classification dataset
+/cnn_classifier/datasets/
+
+# Virtual environments
+.venv/
+venv/
+
+# IDE
+.vscode/
+
+# Secrets
+.env
